@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lilburns ghost, with a whip in one hand, to scourge tyrants out of authority; and balme in the other, to heal the sores of our (as yet) corrupt state; or, Some of the late dying principles of freedom, revived, and unvailed, for the lovers of freedome and liberty, peace &amp; righteousness to behold. By one who desires no longer to live then to serve his country</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88272</idno>
+            <idno type="STC">Wing L2202</idno>
+            <idno type="STC">Thomason E988_9</idno>
+            <idno type="STC">ESTC R208068</idno>
+            <idno type="EEBO-CITATION">99896105</idno>
+            <idno type="PROQUEST">99896105</idno>
+            <idno type="VID">154044</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2395:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lilburns ghost, with a whip in one hand, to scourge tyrants out of authority; and balme in the other, to heal the sores of our (as yet) corrupt state; or, Some of the late dying principles of freedom, revived, and unvailed, for the lovers of freedome and liberty, peace &amp; righteousness to behold. By one who desires no longer to live then to serve his country</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Livewell Chapman, at the Crown in Popes-Head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 22".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+               <term>Civil rights --  England --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154044:1" rendition="simple:additions"/>
+            <p>
+               <hi>LILB<g ref="char:V">Ʋ</g>RNS</hi> GHOST, With a Whip in one hand, to ſcourge Tyrants out of Authority; And Balme in the other, to heal the Sores of our (as yet) Corrupt STATE;</p>
+            <p>Or, Some of the late dying principles of freedom, revived, and unvailed, for the Lovers of Freedome and Liberty, peace &amp; righteouſneſs to behold.</p>
+            <p>By one who deſires no longer to live then to ſerve his Country.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Livewell Chapman,</hi> at the Crown in Popes-Head-Alley. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154044:2"/>
+            <pb n="1" facs="tcp:154044:2" rendition="simple:additions"/>
+            <head>Lilburns Ghoſt.</head>
+            <p>MUST we continue for ever in the Wilderneſs, and not obtain our Promiſe, <hi>viz.</hi> the poſſeſſion of <hi>Canaan,</hi> nor yet return to our Egyptian ſervitude? Surely a Divine Hand hath kept us from our poſſeſſion, and made us know the time was not yet come, till the Lord hath cut off the murmuring, ſelf-ſeeking and perfidious Iſraelites from amongſt us; the ſame Hand alſo hath kept the faithful ones from turning to the Egyptian fleſh-pots, and forſaking <hi>the Cauſe of God,</hi> for which we have ſo long contended. How near we are to our deſired Haven, we cannot preciſely fa<g ref="char:EOLhyphen"/>thom; or how many of our Civil and Martial Grandees (loaded with the ruines and ſpoils of the People, and gor<g ref="char:EOLhyphen"/>ged with pride, covetouſneſs, ſelf-ſeeking, and all manner of filthineſs, which can in no wiſe enter the promiſed Land) muſt be firſt thrown by, before we come to enjoy our promi<g ref="char:EOLhyphen"/>ſed and much deſired poſſeſſion, time will ſhortly diſcover.</p>
+            <p>The Lord hath in ſome meaſure returned to our Camp, and with a ſtrong hand hath thrown down the Mighty from his Throne, overthrown his Chariots, and put a Bit in the mouth of his unruly and pampered horſes; and hath raiſed a ſpirit among the people, to cry up <hi>the Cauſe of God,</hi> and the liber<g ref="char:EOLhyphen"/>ties of the People; both which to our great grief and ſor<g ref="char:EOLhyphen"/>row, had like to have been (violently and barbarouſly) bu<g ref="char:EOLhyphen"/>ried alive at <hi>White hall.</hi>
+            </p>
+            <p>Rouze your ſelves, O ye Free-born people of <hi>England,</hi> and make it appear that <hi>de jure,</hi> the Original of all <hi>juſt</hi> Power
+<pb n="2" facs="tcp:154044:3"/>and Government, is and ought to be in you. Be no longer cheated of your right, nor let the Parliament and Army ſad<g ref="char:EOLhyphen"/>dle you with ſlavery. The Scripture clears the point, that you are the Original of all power: the Apoſtle <hi>Peter</hi> calls it, <hi>The Ordinance of Man.</hi> When the murmuring Iſraelites cryed out for a King, God bid <hi>Samuel hearken to their voice;</hi> as if he ſhould have ſaid, Let them make uſe of their natural Rights, in making choiſe of the form of Government: and after God had nominated the perſon, he left the confirmation and ratification of the Government to the people, to ſhew that the Right was in them, and to that end, <hi>Samuel</hi> calls them together, and with ſhouts and acclamations they pro<g ref="char:EOLhyphen"/>claim him King: an evident Teſtimony that the validity of the Government depended wholly upon the peoples conſent and confirmation. And indeed, the acts of all Tyrants and Uſurpers do evidence the ſame; who to make their Actions as juſt as they can, do alwayes endeavour the conſent and ratification of the people, and to enter into ſome compact with them, and to eſtabliſh themſelves with a ſhew of Lega<g ref="char:EOLhyphen"/>lity; which if ſeriouſly conſidered, is a manifeſt confeſſion of what I here affirm.</p>
+            <p>I ſhall inſiſt no longer upon this ſubject, for I hope we may take it for granted on all ſides, that the Original of all juſt power is in the people; but proceed to the removal of all ſuch blocks which have lain in the peoples way, and hinder<g ref="char:EOLhyphen"/>ed them of the poſſeſſion of their juſt rights and Liber<g ref="char:EOLhyphen"/>ties.</p>
+            <p n="1">1. The firſt foundation of Tyranny, and hinderance of the peoples juſt rights; is the diviſion of a State into Eccleſi<g ref="char:EOLhyphen"/>aſtical and Civil. It is true, the Commonwealth of Iſrael was thus conſtituted by God himſelf: but to ſay that there is the leaſt ground or reaſon for ſuch a diviſion under the Go<g ref="char:EOLhyphen"/>ſpel, or for congregating national Churches, to be drawn from the Scripture, is more then the Learnedſt or Graveſt of the Orthodoxal train can produce. It is clear that Chriſt came to put an end to the adminiſtration of the Jewiſh form, and to take away the pale which confined the Church to a
+<pb n="3" facs="tcp:154044:3" rendition="simple:additions"/>particular nation, that all nations might be taken into the Church, I mean here and there a few, whom the Lord ſhould chuſe: his Church now is not National; it is not a political, but a ſpiritual, Body, according to the ſaying of Chriſt him<g ref="char:EOLhyphen"/>ſelf, <hi>My Kingdom is not of this world.</hi> This diviſion of State is the right hand of Antichriſt, which hath built up and nou<g ref="char:EOLhyphen"/>riſhed the man of ſin, from an infant to a perfect man: and hath in all ages perſecuted the people of God, and been the cauſe of mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the blood that hath been ſhed in the world. For whatever Reformation or change happeneth, either in <hi>Church</hi> or <hi>State,</hi> the <hi>Clergy</hi> can ſoon tranſform themſelves in<g ref="char:EOLhyphen"/>to that ſhape, joyn Iſſue with the preſent power, and under pretence of errour and hereſie, binde men to believe their arbitrary Dictates, Traditions, Errours and blaſphemies, or perſecute them to the death.</p>
+            <p>Therefore, O Parliament of <hi>England</hi> (whom the good peo<g ref="char:EOLhyphen"/>ple are pleaſed at preſent to own as the ſupreme Authority, and will do ſo, provided you own them, and do their wills, and fulfil their intents) beware you ſuffer not the Eccleſiaſtick power to twiſt it ſelf with yours; but on the contrary, to pre<g ref="char:EOLhyphen"/>vent making of parties and factions upon a religious accompt, and all broils and jars in the Nation) declare to the Nation that yen have nothing to do in matters of Religion: as you are the civil Authority, labour to make good Laws for the puniſhing of ſin and vice, and keeping all men civil, peacea<g ref="char:EOLhyphen"/>ble and quiet; and let <hi>Chriſt</hi> alone with his <hi>Church,</hi> whoſe work it is, not yours.</p>
+            <p n="2">2. Secondly, that which hitherto hath ſmothered our de<g ref="char:EOLhyphen"/>clared-for Free-State, in the very birth , was want of care (upon the alteration of Government) to hinder the paſſage of Tyranny out of one form into another: the affairs of paſt ages and nations, and not onely ſo, but the late actions in this Commonwealth, do fully demonſtrate that the intereſt of Monarchy and its inconveniencies have been fatal to o<g ref="char:EOLhyphen"/>ther forms, and are undenyable proofs that they may reſide in the hands of many, as well as in a ſingle perſon. We might here, for illuſtration ſake, produce the caſe of <hi>Athens,</hi>
+               <pb n="4" facs="tcp:154044:4" rendition="simple:additions"/>after they had laid aſide their King, the Kingly and Tyranni<g ref="char:EOLhyphen"/>cal power ſprang up among their Decimal Governors, and their Thirty, whom the people commonly called <hi>Tyrants;</hi> and not onely ſo, but crept among the popular form, who were elected by the Commonalty, for want of a ſtrict watch over them, to prevent their acting more for their own then the peoples intereſt. Not much unlike this, was the State of <hi>Florence:</hi> the Kingly intereſt ſprang up alwayes in one up<g ref="char:EOLhyphen"/>ſtart or other, in advancing his ambitious ends, ſtept up into a Kingly poſture, and robbed the people of their right. Even ſo fared <hi>Rome</hi> with the <hi>Tarquins,</hi> Conſuls, Senates, Decem<g ref="char:EOLhyphen"/>viri, Triumviri, Dictators and Tribunes, all whom acted the flagitious enormities of an abſolute Monarchy.</p>
+            <p>Setting aſide all forreign examples, good people of <hi>England</hi> look at home, and O Parliament of <hi>England,</hi> behold your own body: have not you cut off <hi>Charles,</hi> and let the King live to this day? Conſider what is the intereſt of Monarchy, but an unlimited, uncontroulable, unaccountable ſtation of Power and Authority, in the hands of a ſingle Perſon, or Ma<g ref="char:EOLhyphen"/>ny, who govern according to the Dictates of their own will and pleaſure. If GOD hath ſo much mercy for you, that you now at laſt prove our Redeemers, and Reſtorers of our Li<g ref="char:EOLhyphen"/>berties, declare for it in a due and orderly ſucceſſion of Au<g ref="char:EOLhyphen"/>thority in our Supreme Aſſemblies; that Ages to come may have a reverent and noble reſpect of you, as the Founders of our Free-State and Commonwealth.</p>
+            <p>Thirdly, and ſince (to the grief of honeſt hearts) there are many diſcontented humours in the Nation, who endeavour to inſinuate themſelves into the Body of the Nation, to un<g ref="char:EOLhyphen"/>dermine the ſecurity of the Commonwealth; to gain a ſhare in the government, to bring about their corrupt ends, great care ought to be had of the compoſure and complexion of our Repreſentatives. And that you may be careful herein, pray ſhut the door; and not onely ſo, but ſtop every crack and cran<g ref="char:EOLhyphen"/>ny, to keep out the old and new Malignant out of Autho<g ref="char:EOLhyphen"/>rity: you muſt be cautious not onely in excluding the wilde Geeſe, but the tame; not onely the old, but the new Malig<g ref="char:EOLhyphen"/>nant,
+<pb n="5" facs="tcp:154044:4" rendition="simple:additions"/>being full as dangerous as the other: There is ano<g ref="char:EOLhyphen"/>ther tame beaſt yet, more dangerous then the other two, <hi>viz.</hi> the Neutral <hi>Laodicean,</hi> who can live in any Element, ſail with any wind, cloſe with the Malignants or any for his own ad<g ref="char:EOLhyphen"/>vantage, transform himſelf into an Angel of light, to bring a<g ref="char:EOLhyphen"/>bout his deeds of darkneſs: Let not ſuch be named in Ele<g ref="char:EOLhyphen"/>ctions: And good people, be not threatned by ſome, or de<g ref="char:EOLhyphen"/>luded by others to ſell your Birth-right for a Meſs of Pottage. And as you ought to be careful of the perſons to be elect<g ref="char:EOLhyphen"/>ed, ſo you ought to be as careful of the Perſons electing, who ought to be ſuch as have made contribution of their purſes, ſtrength and counſels, to manage the Cauſe for the Liberty and Freedom of the People: for in this caſe thoſe onely ought to be reckoned the people; the reſt having by a trai<g ref="char:EOLhyphen"/>terous engagement, complyance, neutrality, or apoſtacy, endea<g ref="char:EOLhyphen"/>voured to deſtroy the people, and by conſequence have for<g ref="char:EOLhyphen"/>feited their Rights and Memberſhip of free people; are no longer to be called Patriots , but Parties in Faction, having acted againſt the declared Intereſt of the Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p n="4">4. Fourthly, the permitting of the Legiſlative and Exe<g ref="char:EOLhyphen"/>cutive power to reſt in the ſame hands and perſons, is a means ſuddenly to overthrow a Commonwealth. Reaſon clears it: for if the ſupreme power, the Law-makers, be alſo the Adminiſtrators and Diſpenſers of Juſtice, the people would be loſt without Remedy, in caſe unjuſtice be meaſured unto them: for what appeal have we under heaven, againſt thoſe that have the Supremacy? For true policie alwayes preſuppoſeth the worſt, that governors may be unrighteous; and therefore in all determinations, points at the enormities and remedies of government.</p>
+            <p>If I could inſiſt upon Examples, the ſtate of moſt King<g ref="char:EOLhyphen"/>doms and Commonwealths in the world would evidence the truth of what I here aſſert; but paſſing by all, I come to our own State, and the affairs thereof, which are freſh in e<g ref="char:EOLhyphen"/>very mans memory. The late King, who was and ought to have been no more but as Officer in truſt, to ſee to the exe<g ref="char:EOLhyphen"/>cution
+<pb n="6" facs="tcp:154044:5"/>of the Laws, ſtrained (by the ruine of Parliaments) to get the Legiſlative power, as well as the Executive, into his own hands: and whilſt he ſtrived for this abſolute Tyranny, he pulled a ſwift deſtruction upon Himſelf and his Family. <hi>Oliver Cromwel,</hi> for his time, was a rare Proficient in ſuch projects, and for the ſame (inſtead of it bleſſed memorie, which might have been celebrated for his valiant and bold atchievements) he hath left but a ſtinking ſavour behinde him, in the noſtrils of all honeſt men.</p>
+            <p>O Parliament of <hi>England,</hi> have you been free from this e<g ref="char:EOLhyphen"/>normity, in the time of your government? Labour to be faithful Patriots to your Country now, and lay a foundation upon which the building may ſtand firm and ſure.</p>
+            <p n="5">5. Fifthly, There is another rank weed, that grows faſt, and is apt to choak a Free-State, whilſt it is young and ten<g ref="char:EOLhyphen"/>der; and it is called <hi>Reaſon of State;</hi> by <hi>Reaſon of State</hi> here, I do not mean the equitable Reſults of Prudence and right Reaſon, for upon theſe ought their Determinations to be founded, and is the ſafety of States and Princes: by <hi>Reaſon of State,</hi> I mean that which flows from a corrupt Principle to an indirect End, which is the States-mans will and luſt, when he hath admitted ambition, preferment, profit, revenge, <hi>&amp;c.</hi> to be his reaſon. It is a ſoveraign Commander, an important Counſellor; it anſwers all objections and quarrels; it makes War and Peace, raiſeth Taxes, cuts off and pardons Offen<g ref="char:EOLhyphen"/>ders, treats Embaſſadors: It can ſay and unſay, do and undo, make by-wayes high-wayes, and what not? Many mighty Things it hath done in all ages. It was <hi>Reaſon of State</hi> that made <hi>Pharaoh</hi> keep the Iſraelites in bondage, contrary to the commands of GOD: It was that made <hi>Saul</hi> ſpare <hi>Agag,</hi> and endeavor the ruine of <hi>David:</hi> It made <hi>Jeroboam</hi> ſet up his Calves in <hi>Dan</hi> and <hi>Bethel:</hi> It made <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itophel</hi> give coun<g ref="char:EOLhyphen"/>ſel to <hi>Abſalom</hi> to defile his Fathers Concubines: It made <hi>Abner</hi> take part with the houſe of <hi>Saul:</hi> And it cauſed <hi>Jo<g ref="char:EOLhyphen"/>ah</hi> afterwards to kill him: It made <hi>Jehu</hi> to mingle his own intereſt with the commands of GOD: It made the Jews cry out, <hi>Crucifie,</hi> and <hi>Pilate</hi> to paſs ſentence: It made <hi>Richard</hi> the
+<pb n="7" facs="tcp:154044:5" rendition="simple:additions"/>Third murther his Nephew: It was is that made <hi>Henry</hi> the Eighth perſecute the Proteſtants; and ſhifting his Religion, fell as heavy upon the Papiſts: It made his Daughter <hi>Mary</hi> fill up the cup of her Fathers iniquities: It brought a Scotch Coward to be our King: It made his Son, the late King, endeavour, by a bloody war, co ruine Religion and Li<g ref="char:EOLhyphen"/>berty: And O Parliament of <hi>England,</hi> it was <hi>Reaſon of State</hi> that made you impriſon many of the free people for deman<g ref="char:EOLhyphen"/>ding their Rights: It made you falſifie your Truſt, and keep the Liberties of <hi>England</hi> to your ſelves: It made <hi>Oliver Crom<g ref="char:EOLhyphen"/>wel</hi> aſpire to the Top of Supremacy: It made him leave his power to a Gooſe, inſtead of a Fox or a Lyon: It was <hi>Reaſon of State</hi> that made the Grandees of the Army bring you a<g ref="char:EOLhyphen"/>gain to the Helm; and if you do not now ſweep it out of your Houſe, and take in the Rule of Honeſtie, it will unavoy<g ref="char:EOLhyphen"/>dably bring Ruine upon you, as it hath done upon the afore-named Tyrants.</p>
+            <p n="6">6. Sixthly, Breach of Vows and Promiſes, a violation of Faith, Principles and Engagements, upon every turn of time and advantage, is a great errour among Politicians, an Enemy to a Free State, and an Impiety that ought to be exploded our of all Nations, eſpecially ſuch as bear the name of <hi>Chri<g ref="char:EOLhyphen"/>ſtians.</hi> The people that diſcern but little, magnifie it for ad<g ref="char:EOLhyphen"/>mirable policie; and the Impoſtors that uſe it, for the onely Politicians. This is the old Court-Goſpel, which hath gai<g ref="char:EOLhyphen"/>ned many, Proſelytes, That a Prince cannot, nor ought not to keep his faith given, when the obſervance thereof turns to diſadvantage, and the occaſion; that made him promiſe are paſt. Surely then the intereſt of the people ſhould lead them never to truſt Princes, nor Engagements and Promiſes made of Men in power, but ever to reſerve a power to them<g ref="char:EOLhyphen"/>ſelves, either to reject them, or to make them perform their promiſes, whether they will or no. And if Princes or men in Authority do ſometimes reſemble the Lion, and ſometimes the Fox, let the free people obſerve them in both diſguiſes, and keep a power to themſelves, to cage the Lion, and to un<g ref="char:EOLhyphen"/>kennel the Fox.</p>
+            <pb n="8" facs="tcp:154044:6"/>
+            <p>I might here bring plenty of inſtances, both forreign and domeſtick, wherein might appear the benefit to a Common<g ref="char:EOLhyphen"/>wealth, which hath accrewed by a ſtrict obſervance of Vows and Promiſes, and what ſad effects the contrary hath produ<g ref="char:EOLhyphen"/>ced; but for want of Paper, I wave them, and put you in minde, O Parliament of <hi>England,</hi> that your apparent viola<g ref="char:EOLhyphen"/>tion of your Engagements and Promiſes, had like to have ſmothered our Free State, in its infancy, and hurryed you, and the <hi>Good Old Cauſe,</hi> to <hi>Utopia.</hi> I know you can frame excu<g ref="char:EOLhyphen"/>ſes, and I could give you <hi>Machiavils</hi> reaſons for it; but I queſtion not, but moſt of you have read them, as well as I.</p>
+            <p>Seventhly, and laſtly, the peoples ignorance what their Liberty is, how to obtain it, and how to preſerve it, is an er<g ref="char:EOLhyphen"/>rour in true policy, and an enemy to a free State: by this means have the Grandees of the world, &amp; the Clergy (holding their old Maxime, That <hi>Ignorance is the Mother of Devotion</hi>) kept the people in ignorance, and ſhared the government of the world between them. Therefore let the Parliament of <hi>England</hi> now let the people know what their power is, and let them lay the principles of a Free State before the Peo<g ref="char:EOLhyphen"/>ple. Let Children be trained up and tutored in the Princi<g ref="char:EOLhyphen"/>ples of Enmity and diſlike againſt Kingly government, and all enter into an oath of abjuration (as the Hollanders do) a<g ref="char:EOLhyphen"/>gainſt Kingly government for ever. Let the people know that it is inconſiſtent to a Free State for particular perſons to grandize or greaten themſelves more then ordinary; for that breeds in them an aſpiring to Kingſhip: thus had the State of <hi>Holland</hi> like to have loſt their Liberty, by the great<g ref="char:EOLhyphen"/>neſs of the <hi>Orange</hi> Family: And this Parliament hath cauſe to remember their old General. Let them not commit the continuation of power in any one Family, becauſe it gives them an opportunity to bring in their particular intereſt in compe<g ref="char:EOLhyphen"/>tition with the peoples. Let the peoples Majeſty &amp; Authority of their Votes in their Supreme Aſſemblies be kept inviola<g ref="char:EOLhyphen"/>ble. Let the Arms and Militia be placed in the hands of ſuch men who were alwayes firm to the intereſt of the peo<g ref="char:EOLhyphen"/>ples
+<pb n="9" facs="tcp:154044:6" rendition="simple:additions"/>Liberty, and let them be trained and made perfect in the uſe of them. And principally, let it be an unpardonable crime to incur the guilt of Treaſon againſt the Intereſt &amp; Majeſty of the People. Firſt, let it be Treaſon unpardonable to endeavor to bring in the Kingly power: For this cauſe <hi>Brutus,</hi> the Founder of the Roman Liberty, cauſed his own ſons to be put to death, for conſpiring to bring back the <hi>Tarquins</hi> to the Kingdom. Secondly, the Romans held it an unpardonable crime for a Senator to divulge the ſecrets of the Senate. Third<g ref="char:EOLhyphen"/>ly, in the Venetian State it was held Treaſon for any Senator or Officer to receive any gifts or penſions from any forreign Prince or State upon any pretence whatſoever; or to have any private conference with any forreign Embaſſador.</p>
+            <p>The people being thus reſtored to their juſt Rights and Liberties, and placed in the Majeſty of government, let them obſerve theſe brief Rules following.</p>
+            <p>Firſt, That in a Free State it is above all things neceſſary to avoid diſſention, and not to uſe the uttermoſt remedy up<g ref="char:EOLhyphen"/>on every ſlight diſtemper and default of thoſe with whom they have entruſted their Liberties, leſt the cure prove worſe then the diſeaſe: For the enormity of tumult, diſſention and ſedition, hath been the main objection of Tyrants and their Creatures, againſt the peoples government. Therefore let the people be moderate and diſcreet in their behaviour, and give a due reverence to thoſe whom they have elected for their Superiors.</p>
+            <p>Secondly, That their guardianſhip of Liberty may be ſafe<g ref="char:EOLhyphen"/>ly placed, Let them be careful, in their Elections, to have an eye upon the publick, and chuſe ſuch as have appeared moſt eminent and active in the Eſtabliſhment of Love and Free<g ref="char:EOLhyphen"/>dom.</p>
+            <p>Thirdly, Be not led by faction, affection, or alliance, to chuſe any, but meerly upon the account of Merit; this will ingage your very foes, when they ſee men put into Authority that have a cleer Reputation of tranſcendent Honour and Wiſ<g ref="char:EOLhyphen"/>dom.</p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
